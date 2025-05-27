@@ -9,3 +9,10 @@
 
 ##
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dksgusrl1230&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dksgusrl1230&layout=compact&theme=radical)
+# 연락처
+email:dksgusrl1230@gmail.com
+
+앞으로 잘부탁드리겠습니다 
