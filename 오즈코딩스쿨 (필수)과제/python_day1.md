@@ -112,13 +112,17 @@
     "열쇠 숫자는 14와 29입니다. \n",
     "\n",
     "__돌문을 여는 숫자__ 를 구해주세요."
-  { print(14+29)] },
+ "source": [
+    "print(14+29)"
+   ]
+  },
+  {
    "cell_type": "code",
    "execution_count": null,
    "metadata": {},
    "outputs": [],
    "source": []
-  },
+  }
   {
    "cell_type": "markdown",
    "metadata": {},
