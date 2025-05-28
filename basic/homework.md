@@ -2,99 +2,6 @@
  "cells": [
   {
    "cell_type": "markdown",
-   "metadata": {
-    "id": "WXEwMsfUct7U"
-   },
-   "source": [
-    "안녕하세요.<br><br>\n",
-    "수강생 여러분~! Chapter04 수업은 잘 들으셨나요?\n",
-    "\n",
-    "Chapter04의 수업 내용을 바탕으로 아래 문제를 풀어주시면 됩니다.\n",
-    "\n",
-    "<br>\n",
-    "\n",
-    "[**답변 입력 방법**]\n",
-    "\n",
-    "문제 아래에 있는 코드 입력창에 정답코드를 작성하신 후  __▷ 버튼을 클릭해 코드를 실행__ 해보세요<br>\n",
-    "<br>"
-   ]
-  },
-  {
-   "cell_type": "markdown",
-   "metadata": {
-    "id": "qoyC9wF-3hvs"
-   },
-   "source": [
-    "-----"
-   ]
-  },
-  {
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": [
-    "## 도전! 신비의 섬 탐험\n",
-    "\n",
-    "![image.png](https://media.cnn.com/api/v1/images/stellar/prod/180219103122-zanzibar-and-its-islands-mnemba-a-view-from-the-sky-mnemba-island-lodge.jpg?q=w_1600,h_900,x_0,y_0,c_fill/h_447)\n",
-    "\n",
-    "### [배경 이야기]\n",
-    "\n",
-    "탐험가인 당신은 신비의 섬에 도착했습니다.\n",
-    "\n",
-    "\n",
-    "이 섬에는 숨겨진 보물이 있으며, 이를 찾기 위해 여러 도전 과제를 해결해야 합니다.\n",
-    "\n",
-    "\n",
-    "섬에는 알 수 없는 외계인이 당신을 쫓아오고 있어 모든 도전을 신속하게 해결하고 섬을 탈출해야 합니다.\n",
-    "\n",
-    "=================================================================================================================================\n",
-    "\n",
-    "### [문제 풀이 팁]\n",
-    "너무 어렵게 생각하지 마세요!\n",
-    "지금은 배우는 중이니까 틀려도 괜찮아요.\n",
-    "\n",
-    "<br>\n",
-    "\n",
-    "문제를 풀 때는 아래 순서대로 천천히 해보세요 !\n",
-    "\n",
-    "1. 문제를 __잘__ 읽어주세요! \n",
-    "    - 어떤 결과값을 요구하는지, 어떤 데이터를 주고 있는지 파악합니다.\n",
-    "2.  어떻게 구할 수 있을지 __'생각'__ 해봅니다! \n",
-    "    - 결과값을 구하기 위한 로직을 생각해봅니다.\n",
-    "3. 파이썬 문법에 맞춰서 __'하나씩'__ 코드로 옮겨주세요!\n",
-    "    - 물론 틀려도 괜찮습니다. 기억안나도 괜찮아요! 그래도 시도해보세요!\n",
-    "\n",
-    "<br>\n",
-    "\n",
-    "머릿속으로만 고민하지 말고, 직접 종이에 적거나 손으로 그려보는 것도 큰 도움이 됩니다! <br>\n",
-    "화이팅😃  \n",
-    "\n",
-    "<br>\n",
-    "\n",
-    "=================================================================================================================================\n",
-    "\n",
-    "### [(심화 ver.) 예습을 해보고 싶다면?]\n",
-    "\n",
-    "신비의 섬을 나가기 위해 필요한 비밀번호를 **변수**에 담아 놓는다면 번거로운 계산 과정이 줄어듭니다.\n",
-    "\n",
-    "<br>\n",
-    "\n",
-    "- 🐣 : 변수가 뭔지 잘 모르겠어요 !!!!!!!!!!!!<br>\n",
-    "💁 : __Chapter02 강의 예습__ 혹은 __검색__을 통해 간단한 개념을 파악할 수 있습니다!\n",
-    "\n",
-    "\n",
-    "<br>\n",
-    "\n",
-    "\n",
-    "##### __<신비의 섬 탐험> 문제는 성장을 위해 난이도가 살짝 높게 작성되었기 때문에 어려울 수 있지만 도전해보시길 바랍니다 :)__\n",
-    "\n",
-    "\n",
-    "\n",
-    "<br>\n",
-    "<hr/>\n"
-   ]
-  },
-  {
-   "cell_type": "markdown",
    "metadata": {},
    "source": [
     "__[문제 1: 입구의 수수께끼]__\n",
@@ -115,11 +22,21 @@
    ]
   },
   {
-   "cell_type": "code",
-   "execution_count": null,
+   "cell_type": "markdown",
    "metadata": {},
-   "outputs": [],
-   "source": []
+   "source": [
+    "정답 : 14 + 29\n",
+    "\n",
+    "예제 코드는 변수를 이용한 코드입니다.\n",
+    "추가로 공부하고 싶다면 아래의 코드를 참고해주세요 🙂\n",
+    "\n",
+    "```python\n",
+    "key1 = 14\n",
+    "key2 = 29\n",
+    "result1 = key1 + key2\n",
+    "print(result1) \n",
+    "```\n"
+   ]
   },
   {
    "cell_type": "markdown",
@@ -153,11 +70,21 @@
    ]
   },
   {
-   "cell_type": "code",
-   "execution_count": null,
+   "cell_type": "markdown",
    "metadata": {},
-   "outputs": [],
-   "source": []
+   "source": [
+    "정답 : 68 - 50 \n",
+    "\n",
+    "예제 코드는 변수를 이용한 코드입니다.\n",
+    "추가로 공부하고 싶다면 아래의 코드를 참고해주세요 🙂\n",
+    "\n",
+    "``` python\n",
+    "current_weight = 68\n",
+    "limit = 50\n",
+    "weight_to_lose = current_weight - limit\n",
+    "print(weight_to_lose)  \n",
+    "```"
+   ]
   },
   {
    "cell_type": "markdown",
@@ -196,11 +123,32 @@
    ]
   },
   {
-   "cell_type": "code",
-   "execution_count": null,
+   "cell_type": "markdown",
    "metadata": {},
-   "outputs": [],
-   "source": []
+   "source": [
+    "돌문을 열 때 사용한 숫자는 [문제 1]에서 구한 답입니다. \n",
+    "\n",
+    "- `예제 코드는 변수를 이용한 코드입니다.\n",
+    "추가로 공부하고 싶다면 아래의 코드를 참고해주세요 🙂`\n",
+    "\n",
+    "[문제 3]을 해결하기 위해서는 변수 라는 개념이 필요합니다!\n",
+    "\n",
+    "변수란 간단하게 말해서 값을 넣는 공간을 의미하는데요, \n",
+    "\n",
+    "아직 몰라도 됩니다!!! 변수 관련 내용은 chapter 5에서 배울 예정입니다! \n",
+    "\n",
+    "미리 공부해보고 싶다면 [[링크]](https://tcpschool.com/python2018/python_datatype_variable) 로 이동하거나, 직접 검색해보세요!\n",
+    "검색을 해서 이해하는 것도 좋은 경험이 될 거에요 :)\n",
+    "\n",
+    "다시 [문제 1]로 돌아가서 변수를 이용해서 해결해보고, 다음 [문제 3]까지 해결해보세요 😊\n",
+    "\n",
+    "```python\n",
+    "rings = result1\n",
+    "years_per_ring = 4\n",
+    "age = rings * years_per_ring\n",
+    "print(age) \n",
+    "```"
+   ]
   },
   {
    "cell_type": "markdown",
@@ -231,11 +179,20 @@
    ]
   },
   {
-   "cell_type": "code",
-   "execution_count": null,
+   "cell_type": "markdown",
    "metadata": {},
-   "outputs": [],
-   "source": []
+   "source": [
+    "정답 : 172 / 4\n",
+    "\n",
+    "예제 코드는 변수를 이용한 코드입니다.\n",
+    "추가로 공부하고 싶다면 아래의 코드를 참고해주세요 🙂\n",
+    "\n",
+    "```python\n",
+    "age = 172\n",
+    "pond_depth = age / 4\n",
+    "print(pond_depth)  # 43.0\n",
+    "```"
+   ]
   },
   {
    "cell_type": "markdown",
@@ -269,6 +226,33 @@
    "cell_type": "markdown",
    "metadata": {},
    "source": [
+    "정답 : print(\"비밀번호:\", 5 * 100 + (93 // 10) * 10 + (93 % 10) // 3)\n",
+    "\n",
+    "[문제 5]를 쉽게 해결하기 위해서는 변수 라는 개념이 필요합니다!\n",
+    "\n",
+    "앞서 [문제 3]을 잘 해결해보셨나요?\n",
+    "그렇다면 이미 변수에 대해 알고 있어요! 물론 아직 몰라도 됩니다!!!\n",
+    "변수 내용은 chapter 5에서 배울 예정입니다! \n",
+    "\n",
+    "미리 공부해보고 싶다면 [링크] 로 이동하거나, 직접 검색해보세요!\n",
+    "검색을 해서 이해하는 것도 좋은 경험이 될 거에요 :)\n",
+    "\n",
+    "예제 코드는 변수를 이용한 코드입니다.\n",
+    "추가로 공부하고 싶다면 아래의 코드를 참고해주세요 🙂\n",
+    "\n",
+    "```python\n",
+    "first_digit = 5\n",
+    "second_digit = result1 // 10\n",
+    "third_digit = second_digit // 3\n",
+    "password = f\"{first_digit}{second_digit}{third_digit}\"\n",
+    "print(password)  # 541\n",
+    "```"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
     "<hr/><br>\n",
     "\n",
     "__[문제 6: 비밀의 동굴]__\n",
@@ -291,11 +275,19 @@
    ]
   },
   {
-   "cell_type": "code",
-   "execution_count": null,
+   "cell_type": "markdown",
    "metadata": {},
-   "outputs": [],
-   "source": []
+   "source": [
+    "정답 : 43  ** 0.5\n",
+    "\n",
+    "예제 코드는 변수를 이용한 코드입니다.\n",
+    "추가로 공부하고 싶다면 아래의 코드를 참고해주세요 🙂\n",
+    "\n",
+    "```python\n",
+    "code = result1 ** 0.5\n",
+    "print(int(code)) \n",
+    "```"
+   ]
   },
   {
    "cell_type": "markdown",
@@ -322,11 +314,23 @@
    ]
   },
   {
-   "cell_type": "code",
-   "execution_count": null,
+   "cell_type": "markdown",
    "metadata": {},
-   "outputs": [],
-   "source": []
+   "source": [
+    "정답 : (5 * 60) // 20\n",
+    "\n",
+    "예제 코드는 변수를 이용한 코드입니다.\n",
+    "추가로 공부하고 싶다면 아래의 코드를 참고해주세요 🙂\n",
+    "\n",
+    "```python\n",
+    "minutes = 5\n",
+    "waves = 20\n",
+    "seconds_per_minute = 60\n",
+    "total_seconds = minutes * seconds_per_minute\n",
+    "average_time = (total_seconds // waves)\n",
+    "print(average_time) \n",
+    "```"
+   ]
   },
   {
    "cell_type": "markdown",
@@ -360,11 +364,21 @@
    ]
   },
   {
-   "cell_type": "code",
-   "execution_count": null,
+   "cell_type": "markdown",
    "metadata": {},
-   "outputs": [],
-   "source": []
+   "source": [
+    "정답 : 0.5 * 9.8 * ((2 + 3) ** 2)\n",
+    "\n",
+    "예제 코드는 변수를 이용한 코드입니다.\n",
+    "추가로 공부하고 싶다면 아래의 코드를 참고해주세요 🙂\n",
+    "\n",
+    "```python\n",
+    "gravity = 9.8\n",
+    "time = 2 + 3\n",
+    "height = 0.5 * gravity * time ** 2\n",
+    "print(height)\n",
+    "```  "
+   ]
   },
   {
    "cell_type": "markdown",
@@ -379,8 +393,7 @@
     "\n",
     "보물을 찾았습니다.\n",
     "\n",
-    "\n",
-    "\"쿠우에에이이이이이이..\"\n",
+    "쿠우에에이이이이이이\n",
     "\n",
     "\n",
     "에일리언이 당신을 쫓아왔습니다. 당신은 곧 에일리언의 좋은 영양소가 될 것 같습니다.\n",
@@ -401,38 +414,21 @@
    ]
   },
   {
-   "cell_type": "code",
-   "execution_count": null,
-   "metadata": {},
-   "outputs": [],
-   "source": []
-  },
-  {
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "<hr/><br>\n",
+    "정답 : 128 - 32\n",
     "\n",
-    "당신은 생존했습니다 !!!!!!!!!!\n",
+    "예제 코드는 변수를 이용한 코드입니다.\n",
+    "추가로 공부하고 싶다면 아래의 코드를 참고해주세요 🙂\n",
     "\n",
-    "생존한 당신은 보물 상자를 열어봅니다.\n",
-    "\n",
-    "\n",
-    "\n",
-    "![image.png](https://t1.daumcdn.net/brunch/service/user/f2nO/image/5kAK9UfcMgaAGLdejuEuAoS0Hos.jpg)\n",
-    "\n",
-    "-----\n",
-    "__[편지]__ <br>\n",
-    ">  <br> 오늘도 고생하셨습니다.<br><br> 내일도 과제 있습니다. 여러분 : )<br><br>-파머-<br> \n",
-    "\n",
-    "\n",
-    "--- "
+    "```python\n",
+    "first_num = 32\n",
+    "third_num = 128\n",
+    "password = third_num - first_num\n",
+    "print(password)  \n",
+    "```"
    ]
-  },
-  {
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": []
   }
  ],
  "metadata": {
